@@ -42,7 +42,7 @@ I am a software development engineer who is passionate about technology, languag
 
 ##  Find me around the web:
 - Posting tips of Tecnology and my goals in <a href="https://twitter.com/javieramayapat">Twitter</a>
-- Learn more about me in<a href="https://www.linkedin.com/in/javieramayapat/">Linkedin</a> 👨‍💼
+- Learn more about me in <a href="https://www.linkedin.com/in/javieramayapat/">Linkedin</a> 👨‍💼
 
 ## 📊 Some of my stats are:
 <p align="center">
