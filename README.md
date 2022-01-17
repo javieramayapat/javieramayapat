@@ -1,4 +1,4 @@
-# Hi I´m Javier 👋 
+# Hi I´m Javier Amaya👋 
 
 I am a software development engineer who is passionate about technology, languages and culture. Some technologies I enjoy working include Python and JavaScript, I also strengthen myself professionally with the practice of a robust framework such as Django and FastAPI.
 
