@@ -9,7 +9,7 @@ I am a software development engineer who is passionate about technology, languag
 
 ## 🚀 Proyects:
 
-- [Platzi Master Proyect](https://github.com/Platzi-Master-C8/gethired-jobplacement-ratings-backend "Jobplacement Ratings")
+- [Platzi Master Project](https://github.com/Platzi-Master-C8/gethired-jobplacement-ratings-backend "Jobplacement Ratings")
 
 ## 🎯 Some Technologies I use:
 <p align="center">
@@ -29,7 +29,6 @@ I am a software development engineer who is passionate about technology, languag
 </p>
 
 ##  Find me around the web:
-- Writing in <a href="https://dev.to/javieramayapat">Dev.to</a>
 - Posting tips on <a href="https://twitter.com/javieramayapat">Twitter</a>
 - Learn more about me at <a href="https://www.linkedin.com/in/javieramayapat/">Linkedin</a> 👨‍💼
 
