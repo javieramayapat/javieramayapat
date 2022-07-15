@@ -2,7 +2,7 @@
 
 I am a software Engineer who is passionate about technology, languages and culture. Some technologies I enjoy working include Python and JavaScript, I also strengthen myself professionally with the practice of a robust framework such as Django and FastAPI.
 
-- 🚀 My favorite study platafor is Platzi💚.
+- 🚀 My favorite study plataform is Platzi💚.
 - 💬 Ask me about whatever you want. I am interested in helping and sharing.
 - 🌱 I´m currently learning Python with FastAPI to enhance my Backend skills.
 - 📊 My growth never stops because I apply the continuous improvement method in both professional and personal.
