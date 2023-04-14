@@ -9,7 +9,9 @@ I am a software Engineer who is passionate about technology, languages and cultu
 
 ## 🚀 Proyects:
 
-- [Platzi Master Project](https://github.com/Platzi-Master-C8/gethired-jobplacement-ratings-backend "Jobplacement Ratings")
+- [Jobplacement Rating API](https://github.com/Platzi-Master-C8/gethired-jobplacement-ratings-backend "Jobplacement Ratings")
+- [E-commerce-supermarket-API] - WIP
+- [Camera Review API] - WIP
 
 ## 🎯 Some Technologies I use:
 <p align="center">
