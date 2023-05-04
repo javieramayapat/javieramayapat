@@ -9,9 +9,13 @@ I am a software Engineer who is passionate about technology, languages and cultu
 
 ## 🚀 Proyects:
 
-- [Jobplacement Rating API](https://github.com/Platzi-Master-C8/gethired-jobplacement-ratings-backend "Jobplacement Ratings")
-- [E-commerce-supermarket-API] - WIP
-- [Camera Review API] - WIP
+#### [E-commerce-supermarket-API](https://github.com/javieramayapat/e-commerce "E-commerce Supermarket")
+
+#### [Camera Review API](https://github.com/javieramayapat/camera-reviews-api "Camera Review API")
+
+#### [Jobplacement Rating API](https://github.com/Platzi-Master-C8/gethired-jobplacement-ratings-backend "Jobplacement Ratings")
+Ratings API is an application that allows you to provide two-way feedback between job seekers and recruiters, to assess their soft and strong skills.
+
 
 ## 🎯 Some Technologies I use:
 <p align="center">
